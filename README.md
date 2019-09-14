@@ -10,7 +10,8 @@ https://flutter.dev/docs/get-started/install.
 
 ## Creado con 
 * Flutter SDK
-* [Visual Studio Code] 
+* Visual Studio Code
+* Dart
 
 ## Autor
 
